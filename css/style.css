@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(203, 214, 235);
+}
+
+.card {
+    background-color: rgb(240, 133, 169);
+}
+
+.button {
+   margin-bottom: center;
+   text-align-last: center;
+   background-color: rgb(203, 214, 235);
+   border-radius: 20px;
+   border-color:rgb(240, 133, 169);
+   border-bottom-left-radius: 4px;
+}
+
+.textcenter {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(33, 21, 102);
+} 
